@@ -1,0 +1,21 @@
+﻿.header-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    min-height: 150px;
+}
+
+.header-main {
+    background-color: #232222;
+    width: 100%;
+    min-height: 102px;
+    color: white;
+}
+
+.header-secundary {
+    background-color: #232222;
+    width: 100%;
+    min-height: 54px;
+    border: 0 1px 0 1px solid #000;
+    color: white;
+}
